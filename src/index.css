@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Metropolis-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: Menlo, Monaco, 'Courier New', monospace;
+  
+  /* Default theme variables - will be overridden by dynamic theming */
+  --theme-primary: #3b82f6;    /* blue-500 */
+  --theme-secondary: #6366f1;  /* indigo-500 */
+  --theme-background: #f9fafb; /* gray-50 */
+  --theme-text: #18181b;       /* zinc-900 */
+  --theme-header-bg: #ffffff;  /* white */
+  --theme-card-bg: #ffffff;    /* white */
+  --theme-button-bg: #3b82f6;  /* blue-500 */
+  --theme-button-text: #ffffff;/* white */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--theme-text);
+  background-color: var(--theme-background);
+  line-height: 1.5;
+}
+
+/* Theme transition styles */
+.theme-transition html,
+.theme-transition body {
+  transition: background-color 0.5s cubic-bezier(0.22, 1, 0.36, 1), color 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.theme-transition * {
+  transition: 
+    background-color 0.5s cubic-bezier(0.22, 1, 0.36, 1), 
+    color 0.5s cubic-bezier(0.22, 1, 0.36, 1), 
+    border-color 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  padding: 0.2em 0.4em;
+  background-color: #f4f4f5;
+  border-radius: 0.25rem;
+}
+
+/* Simple highlight for clickable elements */
+a, button, [role="button"], input[type="submit"] {
+  transition: all 0.2s ease;
+}
+
+/* Custom selection color */
+::selection {
+  background-color: var(--theme-primary);
+  color: var(--theme-button-text);
+}
+
+/* Themed elements */
+.btn-primary {
+  background-color: var(--theme-button-bg);
+  color: var(--theme-button-text);
+}
+
+.card {
+  background-color: var(--theme-card-bg);
+  border-color: color-mix(in srgb, var(--theme-primary) 15%, transparent);
+}
+
+.header {
+  background-color: var(--theme-header-bg);
+}
+
+/* Add dramatic transition for theme changes */
+.theme-transition * {
+  transition: 
+    background-color 0.5s cubic-bezier(0.22, 1, 0.36, 1), 
+    color 0.5s cubic-bezier(0.22, 1, 0.36, 1), 
+    border-color 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}

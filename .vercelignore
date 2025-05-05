@@ -1,0 +1,23 @@
+# Node artefacts
+node_modules/
+build/
+
+# Python environment & scripts
+python_scripts/
+.venv/
+__pycache__/
+*.py
+*.pyc
+uv.lock
+pyproject.toml
+requirements.txt
+
+# Yuzu helper files
+yuzu/
+
+# Docs & misc
+*.md
+.DS_Store 
+.env
+CLAUDE.md
+.cursor/

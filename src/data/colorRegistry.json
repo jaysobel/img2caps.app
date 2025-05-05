@@ -1,0 +1,2522 @@
+{
+  "BL001": {
+    "file": "yuzu/keycaps/BL1.jpg",
+    "rgb": [
+      112,
+      175,
+      235
+    ]
+  },
+  "BL002": {
+    "file": "yuzu/keycaps/BL2.jpg",
+    "rgb": [
+      173,
+      207,
+      232
+    ]
+  },
+  "BL003": {
+    "file": "yuzu/keycaps/BL3.jpg",
+    "rgb": [
+      140,
+      168,
+      210
+    ]
+  },
+  "BL004": {
+    "file": "yuzu/keycaps/BL4.jpg",
+    "rgb": [
+      150,
+      161,
+      212
+    ]
+  },
+  "BL005": {
+    "file": "yuzu/keycaps/BL5.jpg",
+    "rgb": [
+      130,
+      198,
+      239
+    ]
+  },
+  "BL006": {
+    "file": "yuzu/keycaps/BL6.jpg",
+    "rgb": [
+      55,
+      128,
+      222
+    ]
+  },
+  "BL007": {
+    "file": "yuzu/keycaps/BL7.jpg",
+    "rgb": [
+      164,
+      207,
+      239
+    ]
+  },
+  "BL008": {
+    "file": "yuzu/keycaps/BL8.jpg",
+    "rgb": [
+      158,
+      215,
+      232
+    ]
+  },
+  "BL009": {
+    "file": "yuzu/keycaps/BL9.jpg",
+    "rgb": [
+      42,
+      76,
+      102
+    ]
+  },
+  "BL010": {
+    "file": "yuzu/keycaps/BL10.jpg",
+    "rgb": [
+      51,
+      65,
+      73
+    ]
+  },
+  "BL011": {
+    "file": "yuzu/keycaps/BL11.jpg",
+    "rgb": [
+      139,
+      210,
+      232
+    ]
+  },
+  "BL012": {
+    "file": "yuzu/keycaps/BL12.jpg",
+    "rgb": [
+      132,
+      202,
+      227
+    ]
+  },
+  "BL013": {
+    "file": "yuzu/keycaps/BL13.jpg",
+    "rgb": [
+      136,
+      203,
+      219
+    ]
+  },
+  "BL014": {
+    "file": "yuzu/keycaps/BL14.jpg",
+    "rgb": [
+      127,
+      199,
+      217
+    ]
+  },
+  "BL015": {
+    "file": "yuzu/keycaps/BL15.jpg",
+    "rgb": [
+      127,
+      199,
+      223
+    ]
+  },
+  "BL016": {
+    "file": "yuzu/keycaps/BL16.jpg",
+    "rgb": [
+      42,
+      94,
+      180
+    ]
+  },
+  "BL017": {
+    "file": "yuzu/keycaps/BL17.jpg",
+    "rgb": [
+      101,
+      163,
+      182
+    ]
+  },
+  "BL018": {
+    "file": "yuzu/keycaps/BL18.jpg",
+    "rgb": [
+      88,
+      165,
+      240
+    ]
+  },
+  "BL019": {
+    "file": "yuzu/keycaps/BL19.jpg",
+    "rgb": [
+      78,
+      156,
+      235
+    ]
+  },
+  "BL020": {
+    "file": "yuzu/keycaps/BL20.jpg",
+    "rgb": [
+      51,
+      115,
+      176
+    ]
+  },
+  "BL021": {
+    "file": "yuzu/keycaps/BL21.jpg",
+    "rgb": [
+      46,
+      82,
+      153
+    ]
+  },
+  "BL022": {
+    "file": "yuzu/keycaps/BL22.jpg",
+    "rgb": [
+      54,
+      77,
+      130
+    ]
+  },
+  "BL023": {
+    "file": "yuzu/keycaps/BL23.jpg",
+    "rgb": [
+      41,
+      70,
+      126
+    ]
+  },
+  "BL024": {
+    "file": "yuzu/keycaps/BL24.jpg",
+    "rgb": [
+      55,
+      98,
+      177
+    ]
+  },
+  "BL025": {
+    "file": "yuzu/keycaps/BL25.jpg",
+    "rgb": [
+      51,
+      95,
+      176
+    ]
+  },
+  "BL026": {
+    "file": "yuzu/keycaps/BL26.jpg",
+    "rgb": [
+      47,
+      69,
+      124
+    ]
+  },
+  "BL027": {
+    "file": "yuzu/keycaps/BL27.jpg",
+    "rgb": [
+      55,
+      132,
+      207
+    ]
+  },
+  "BL028": {
+    "file": "yuzu/keycaps/BL28.jpg",
+    "rgb": [
+      168,
+      189,
+      210
+    ]
+  },
+  "BL029": {
+    "file": "yuzu/keycaps/BL29.jpg",
+    "rgb": [
+      61,
+      139,
+      197
+    ]
+  },
+  "BL030": {
+    "file": "yuzu/keycaps/BL30.jpg",
+    "rgb": [
+      85,
+      129,
+      199
+    ]
+  },
+  "BL031": {
+    "file": "yuzu/keycaps/BL31.jpg",
+    "rgb": [
+      101,
+      182,
+      234
+    ]
+  },
+  "BL032": {
+    "file": "yuzu/keycaps/BL32.jpg",
+    "rgb": [
+      179,
+      194,
+      214
+    ]
+  },
+  "BL033": {
+    "file": "yuzu/keycaps/BL33.jpg",
+    "rgb": [
+      160,
+      179,
+      205
+    ]
+  },
+  "BL034": {
+    "file": "yuzu/keycaps/BL34.jpg",
+    "rgb": [
+      178,
+      199,
+      220
+    ]
+  },
+  "BL035": {
+    "file": "yuzu/keycaps/BL35.jpg",
+    "rgb": [
+      117,
+      153,
+      211
+    ]
+  },
+  "BL036": {
+    "file": "yuzu/keycaps/BL36.jpg",
+    "rgb": [
+      146,
+      173,
+      192
+    ]
+  },
+  "BL037": {
+    "file": "yuzu/keycaps/BL37.jpg",
+    "rgb": [
+      97,
+      174,
+      214
+    ]
+  },
+  "BL038": {
+    "file": "yuzu/keycaps/BL38.jpg",
+    "rgb": [
+      81,
+      136,
+      153
+    ]
+  },
+  "BL039": {
+    "file": "yuzu/keycaps/BL39.jpg",
+    "rgb": [
+      196,
+      201,
+      213
+    ]
+  },
+  "BL040": {
+    "file": "yuzu/keycaps/BL40.jpg",
+    "rgb": [
+      180,
+      192,
+      209
+    ]
+  },
+  "BL041": {
+    "file": "yuzu/keycaps/BL41.jpg",
+    "rgb": [
+      126,
+      142,
+      167
+    ]
+  },
+  "BL042": {
+    "file": "yuzu/keycaps/BL42.jpg",
+    "rgb": [
+      96,
+      141,
+      203
+    ]
+  },
+  "BL043": {
+    "file": "yuzu/keycaps/BL43.jpg",
+    "rgb": [
+      93,
+      166,
+      200
+    ]
+  },
+  "BL044": {
+    "file": "yuzu/keycaps/BL44.jpg",
+    "rgb": [
+      59,
+      106,
+      130
+    ]
+  },
+  "BN001": {
+    "file": "yuzu/keycaps/BN1.jpg",
+    "rgb": [
+      228,
+      203,
+      163
+    ]
+  },
+  "BN002": {
+    "file": "yuzu/keycaps/BN2.jpg",
+    "rgb": [
+      228,
+      198,
+      160
+    ]
+  },
+  "BN003": {
+    "file": "yuzu/keycaps/BN3.jpg",
+    "rgb": [
+      215,
+      182,
+      147
+    ]
+  },
+  "BN004": {
+    "file": "yuzu/keycaps/BN4.jpg",
+    "rgb": [
+      139,
+      126,
+      120
+    ]
+  },
+  "BN005": {
+    "file": "yuzu/keycaps/BN5.jpg",
+    "rgb": [
+      245,
+      190,
+      162
+    ]
+  },
+  "BN006": {
+    "file": "yuzu/keycaps/BN6.jpg",
+    "rgb": [
+      241,
+      183,
+      155
+    ]
+  },
+  "BN007": {
+    "file": "yuzu/keycaps/BN7.jpg",
+    "rgb": [
+      234,
+      173,
+      145
+    ]
+  },
+  "BN008": {
+    "file": "yuzu/keycaps/BN8.jpg",
+    "rgb": [
+      173,
+      126,
+      108
+    ]
+  },
+  "BN009": {
+    "file": "yuzu/keycaps/BN9.jpg",
+    "rgb": [
+      91,
+      83,
+      80
+    ]
+  },
+  "BN010": {
+    "file": "yuzu/keycaps/BN10.jpg",
+    "rgb": [
+      129,
+      109,
+      99
+    ]
+  },
+  "BN011": {
+    "file": "yuzu/keycaps/BN11.jpg",
+    "rgb": [
+      188,
+      158,
+      148
+    ]
+  },
+  "BN012": {
+    "file": "yuzu/keycaps/BN12.jpg",
+    "rgb": [
+      183,
+      146,
+      138
+    ]
+  },
+  "BN013": {
+    "file": "yuzu/keycaps/BN13.jpg",
+    "rgb": [
+      154,
+      131,
+      120
+    ]
+  },
+  "BN014": {
+    "file": "yuzu/keycaps/BN14.jpg",
+    "rgb": [
+      98,
+      88,
+      86
+    ]
+  },
+  "BN015": {
+    "file": "yuzu/keycaps/BN15.jpg",
+    "rgb": [
+      226,
+      179,
+      163
+    ]
+  },
+  "BN016": {
+    "file": "yuzu/keycaps/BN16.jpg",
+    "rgb": [
+      186,
+      140,
+      133
+    ]
+  },
+  "BN017": {
+    "file": "yuzu/keycaps/BN17.jpg",
+    "rgb": [
+      156,
+      120,
+      112
+    ]
+  },
+  "BN018": {
+    "file": "yuzu/keycaps/BN18.jpg",
+    "rgb": [
+      188,
+      135,
+      120
+    ]
+  },
+  "BN019": {
+    "file": "yuzu/keycaps/BN19.jpg",
+    "rgb": [
+      80,
+      77,
+      72
+    ]
+  },
+  "BN020": {
+    "file": "yuzu/keycaps/BN20.jpg",
+    "rgb": [
+      231,
+      206,
+      166
+    ]
+  },
+  "BN021": {
+    "file": "yuzu/keycaps/BN21.jpg",
+    "rgb": [
+      226,
+      196,
+      158
+    ]
+  },
+  "BN022": {
+    "file": "yuzu/keycaps/BN22.jpg",
+    "rgb": [
+      206,
+      172,
+      141
+    ]
+  },
+  "BN023": {
+    "file": "yuzu/keycaps/BN23.jpg",
+    "rgb": [
+      87,
+      79,
+      76
+    ]
+  },
+  "BN024": {
+    "file": "yuzu/keycaps/BN24.jpg",
+    "rgb": [
+      106,
+      93,
+      84
+    ]
+  },
+  "BN025": {
+    "file": "yuzu/keycaps/BN25.jpg",
+    "rgb": [
+      117,
+      110,
+      106
+    ]
+  },
+  "BN026": {
+    "file": "yuzu/keycaps/BN26.jpg",
+    "rgb": [
+      144,
+      125,
+      113
+    ]
+  },
+  "BN027": {
+    "file": "yuzu/keycaps/BN27.jpg",
+    "rgb": [
+      106,
+      92,
+      86
+    ]
+  },
+  "BN028": {
+    "file": "yuzu/keycaps/BN28.jpg",
+    "rgb": [
+      222,
+      175,
+      157
+    ]
+  },
+  "BN029": {
+    "file": "yuzu/keycaps/BN29.jpg",
+    "rgb": [
+      243,
+      195,
+      169
+    ]
+  },
+  "BN031": {
+    "file": "yuzu/keycaps/BN31.jpg",
+    "rgb": [
+      236,
+      170,
+      140
+    ]
+  },
+  "BN033": {
+    "file": "yuzu/keycaps/BN33.jpg",
+    "rgb": [
+      137,
+      101,
+      89
+    ]
+  },
+  "BN034": {
+    "file": "yuzu/keycaps/BN34.jpg",
+    "rgb": [
+      113,
+      96,
+      88
+    ]
+  },
+  "BN035": {
+    "file": "yuzu/keycaps/BN35.jpg",
+    "rgb": [
+      193,
+      155,
+      144
+    ]
+  },
+  "BN036": {
+    "file": "yuzu/keycaps/BN36.jpg",
+    "rgb": [
+      165,
+      136,
+      126
+    ]
+  },
+  "BN037": {
+    "file": "yuzu/keycaps/BN37.jpg",
+    "rgb": [
+      146,
+      124,
+      118
+    ]
+  },
+  "BN038": {
+    "file": "yuzu/keycaps/BN38.jpg",
+    "rgb": [
+      89,
+      81,
+      78
+    ]
+  },
+  "BN039": {
+    "file": "yuzu/keycaps/BN39.jpg",
+    "rgb": [
+      182,
+      163,
+      146
+    ]
+  },
+  "BN040": {
+    "file": "yuzu/keycaps/BN40.jpg",
+    "rgb": [
+      226,
+      177,
+      161
+    ]
+  },
+  "BN041": {
+    "file": "yuzu/keycaps/BN41.jpg",
+    "rgb": [
+      178,
+      129,
+      122
+    ]
+  },
+  "BN042": {
+    "file": "yuzu/keycaps/BN42.jpg",
+    "rgb": [
+      139,
+      108,
+      105
+    ]
+  },
+  "BN044": {
+    "file": "yuzu/keycaps/BN44.jpg",
+    "rgb": [
+      235,
+      193,
+      175
+    ]
+  },
+  "BN045": {
+    "file": "yuzu/keycaps/BN45.jpg",
+    "rgb": [
+      236,
+      201,
+      181
+    ]
+  },
+  "BN046": {
+    "file": "yuzu/keycaps/BN46.jpg",
+    "rgb": [
+      133,
+      101,
+      81
+    ]
+  },
+  "BN047": {
+    "file": "yuzu/keycaps/BN47.jpg",
+    "rgb": [
+      90,
+      82,
+      79
+    ]
+  },
+  "BNS2": {
+    "file": "yuzu/keycaps/BNS2.jpg",
+    "rgb": [
+      189,
+      141,
+      124
+    ]
+  },
+  "G14": {
+    "file": "yuzu/keycaps/G14.jpg",
+    "rgb": [
+      245,
+      185,
+      122
+    ]
+  },
+  "G15": {
+    "file": "yuzu/keycaps/G15.jpg",
+    "rgb": [
+      246,
+      169,
+      114
+    ]
+  },
+  "G6": {
+    "file": "yuzu/keycaps/G6.jpg",
+    "rgb": [
+      154,
+      204,
+      125
+    ]
+  },
+  "GN001": {
+    "file": "yuzu/keycaps/GN1.jpg",
+    "rgb": [
+      152,
+      161,
+      150
+    ]
+  },
+  "GN002": {
+    "file": "yuzu/keycaps/GN2.jpg",
+    "rgb": [
+      185,
+      194,
+      176
+    ]
+  },
+  "GN003": {
+    "file": "yuzu/keycaps/GN3.jpg",
+    "rgb": [
+      123,
+      182,
+      73
+    ]
+  },
+  "GN004": {
+    "file": "yuzu/keycaps/GN4.jpg",
+    "rgb": [
+      165,
+      216,
+      196
+    ]
+  },
+  "GN005": {
+    "file": "yuzu/keycaps/GN5.jpg",
+    "rgb": [
+      141,
+      204,
+      185
+    ]
+  },
+  "GN006": {
+    "file": "yuzu/keycaps/GN6.jpg",
+    "rgb": [
+      118,
+      196,
+      169
+    ]
+  },
+  "GN007": {
+    "file": "yuzu/keycaps/GN7.jpg",
+    "rgb": [
+      70,
+      149,
+      135
+    ]
+  },
+  "GN008": {
+    "file": "yuzu/keycaps/GN8.jpg",
+    "rgb": [
+      52,
+      125,
+      129
+    ]
+  },
+  "GN009": {
+    "file": "yuzu/keycaps/GN9.jpg",
+    "rgb": [
+      45,
+      100,
+      103
+    ]
+  },
+  "GN010": {
+    "file": "yuzu/keycaps/GN10.jpg",
+    "rgb": [
+      51,
+      98,
+      97
+    ]
+  },
+  "GN011": {
+    "file": "yuzu/keycaps/GN11.jpg",
+    "rgb": [
+      136,
+      201,
+      168
+    ]
+  },
+  "GN012": {
+    "file": "yuzu/keycaps/GN12.jpg",
+    "rgb": [
+      121,
+      194,
+      149
+    ]
+  },
+  "GN013": {
+    "file": "yuzu/keycaps/GN13.jpg",
+    "rgb": [
+      96,
+      177,
+      137
+    ]
+  },
+  "GN014": {
+    "file": "yuzu/keycaps/GN14.jpg",
+    "rgb": [
+      61,
+      134,
+      117
+    ]
+  },
+  "GN015": {
+    "file": "yuzu/keycaps/GN15.jpg",
+    "rgb": [
+      72,
+      118,
+      98
+    ]
+  },
+  "GN016": {
+    "file": "yuzu/keycaps/GN16.jpg",
+    "rgb": [
+      69,
+      103,
+      89
+    ]
+  },
+  "GN017": {
+    "file": "yuzu/keycaps/GN17.jpg",
+    "rgb": [
+      159,
+      211,
+      173
+    ]
+  },
+  "GN018": {
+    "file": "yuzu/keycaps/GN18.jpg",
+    "rgb": [
+      141,
+      206,
+      146
+    ]
+  },
+  "GN019": {
+    "file": "yuzu/keycaps/GN19.jpg",
+    "rgb": [
+      123,
+      197,
+      151
+    ]
+  },
+  "GN020": {
+    "file": "yuzu/keycaps/GN20.jpg",
+    "rgb": [
+      59,
+      126,
+      106
+    ]
+  },
+  "GN022": {
+    "file": "yuzu/keycaps/GN22.jpg",
+    "rgb": [
+      75,
+      96,
+      94
+    ]
+  },
+  "GN023": {
+    "file": "yuzu/keycaps/GN23.jpg",
+    "rgb": [
+      73,
+      152,
+      96
+    ]
+  },
+  "GN024": {
+    "file": "yuzu/keycaps/GN24.jpg",
+    "rgb": [
+      118,
+      193,
+      136
+    ]
+  },
+  "GN025": {
+    "file": "yuzu/keycaps/GN25.jpg",
+    "rgb": [
+      201,
+      213,
+      167
+    ]
+  },
+  "GN026": {
+    "file": "yuzu/keycaps/GN26.jpg",
+    "rgb": [
+      181,
+      212,
+      142
+    ]
+  },
+  "GN028": {
+    "file": "yuzu/keycaps/GN28.jpg",
+    "rgb": [
+      129,
+      196,
+      103
+    ]
+  },
+  "GN029": {
+    "file": "yuzu/keycaps/GN29.jpg",
+    "rgb": [
+      141,
+      180,
+      125
+    ]
+  },
+  "GN030": {
+    "file": "yuzu/keycaps/GN30.jpg",
+    "rgb": [
+      125,
+      151,
+      104
+    ]
+  },
+  "GN031": {
+    "file": "yuzu/keycaps/GN31.jpg",
+    "rgb": [
+      178,
+      208,
+      128
+    ]
+  },
+  "GN032": {
+    "file": "yuzu/keycaps/GN32.jpg",
+    "rgb": [
+      158,
+      196,
+      113
+    ]
+  },
+  "GN033": {
+    "file": "yuzu/keycaps/GN33.jpg",
+    "rgb": [
+      146,
+      195,
+      104
+    ]
+  },
+  "GN034": {
+    "file": "yuzu/keycaps/GN34.jpg",
+    "rgb": [
+      119,
+      174,
+      53
+    ]
+  },
+  "GN035": {
+    "file": "yuzu/keycaps/GN35.jpg",
+    "rgb": [
+      120,
+      167,
+      52
+    ]
+  },
+  "GN036": {
+    "file": "yuzu/keycaps/GN36.jpg",
+    "rgb": [
+      121,
+      150,
+      91
+    ]
+  },
+  "GN038": {
+    "file": "yuzu/keycaps/GN38.jpg",
+    "rgb": [
+      201,
+      219,
+      137
+    ]
+  },
+  "GN039": {
+    "file": "yuzu/keycaps/GN39.jpg",
+    "rgb": [
+      186,
+      216,
+      116
+    ]
+  },
+  "GN040": {
+    "file": "yuzu/keycaps/GN40.jpg",
+    "rgb": [
+      173,
+      210,
+      104
+    ]
+  },
+  "GN042": {
+    "file": "yuzu/keycaps/GN42.jpg",
+    "rgb": [
+      199,
+      212,
+      166
+    ]
+  },
+  "GN043": {
+    "file": "yuzu/keycaps/GN43.jpg",
+    "rgb": [
+      196,
+      192,
+      100
+    ]
+  },
+  "GR001": {
+    "file": "yuzu/keycaps/GR1.jpg",
+    "rgb": [
+      39,
+      39,
+      39
+    ]
+  },
+  "GR002": {
+    "file": "yuzu/keycaps/GR2.jpg",
+    "rgb": [
+      238,
+      235,
+      230
+    ]
+  },
+  "GR003": {
+    "file": "yuzu/keycaps/GR3.jpg",
+    "rgb": [
+      198,
+      200,
+      218
+    ]
+  },
+  "GR004": {
+    "file": "yuzu/keycaps/GR4.jpg",
+    "rgb": [
+      95,
+      87,
+      84
+    ]
+  },
+  "GR005": {
+    "file": "yuzu/keycaps/GR5.jpg",
+    "rgb": [
+      177,
+      182,
+      175
+    ]
+  },
+  "GR006": {
+    "file": "yuzu/keycaps/GR6.jpg",
+    "rgb": [
+      94,
+      90,
+      95
+    ]
+  },
+  "GR007": {
+    "file": "yuzu/keycaps/GR7.jpg",
+    "rgb": [
+      127,
+      119,
+      121
+    ]
+  },
+  "GR008": {
+    "file": "yuzu/keycaps/GR8.jpg",
+    "rgb": [
+      143,
+      131,
+      130
+    ]
+  },
+  "GR009": {
+    "file": "yuzu/keycaps/GR9.jpg",
+    "rgb": [
+      79,
+      83,
+      86
+    ]
+  },
+  "GR010": {
+    "file": "yuzu/keycaps/GR10.jpg",
+    "rgb": [
+      91,
+      91,
+      91
+    ]
+  },
+  "GR011": {
+    "file": "yuzu/keycaps/GR11.jpg",
+    "rgb": [
+      191,
+      193,
+      207
+    ]
+  },
+  "GR012": {
+    "file": "yuzu/keycaps/GR12.jpg",
+    "rgb": [
+      106,
+      110,
+      113
+    ]
+  },
+  "GR013": {
+    "file": "yuzu/keycaps/GR13.jpg",
+    "rgb": [
+      85,
+      88,
+      92
+    ]
+  },
+  "GR014": {
+    "file": "yuzu/keycaps/GR14.jpg",
+    "rgb": [
+      136,
+      117,
+      114
+    ]
+  },
+  "GR015": {
+    "file": "yuzu/keycaps/GR15.jpg",
+    "rgb": [
+      102,
+      106,
+      109
+    ]
+  },
+  "GR016": {
+    "file": "yuzu/keycaps/GR16.jpg",
+    "rgb": [
+      107,
+      107,
+      107
+    ]
+  },
+  "GR017": {
+    "file": "yuzu/keycaps/GR17.jpg",
+    "rgb": [
+      164,
+      136,
+      131
+    ]
+  },
+  "GR019": {
+    "file": "yuzu/keycaps/GR19.jpg",
+    "rgb": [
+      160,
+      155,
+      151
+    ]
+  },
+  "GR020": {
+    "file": "yuzu/keycaps/GR20.jpg",
+    "rgb": [
+      203,
+      198,
+      197
+    ]
+  },
+  "GR021": {
+    "file": "yuzu/keycaps/GR21.jpg",
+    "rgb": [
+      139,
+      120,
+      113
+    ]
+  },
+  "GR022": {
+    "file": "yuzu/keycaps/GR22.jpg",
+    "rgb": [
+      112,
+      108,
+      108
+    ]
+  },
+  "GR023": {
+    "file": "yuzu/keycaps/GR23.jpg",
+    "rgb": [
+      160,
+      164,
+      180
+    ]
+  },
+  "GR024": {
+    "file": "yuzu/keycaps/GR24.jpg",
+    "rgb": [
+      87,
+      86,
+      91
+    ]
+  },
+  "GR025": {
+    "file": "yuzu/keycaps/GR25.jpg",
+    "rgb": [
+      102,
+      94,
+      92
+    ]
+  },
+  "GR026": {
+    "file": "yuzu/keycaps/GR26.jpg",
+    "rgb": [
+      98,
+      97,
+      105
+    ]
+  },
+  "GR027": {
+    "file": "yuzu/keycaps/GR27.jpg",
+    "rgb": [
+      114,
+      110,
+      121
+    ]
+  },
+  "GR028": {
+    "file": "yuzu/keycaps/GR28.jpg",
+    "rgb": [
+      90,
+      93,
+      109
+    ]
+  },
+  "GR029": {
+    "file": "yuzu/keycaps/GR29.jpg",
+    "rgb": [
+      71,
+      71,
+      71
+    ]
+  },
+  "GR118": {
+    "file": "yuzu/keycaps/GR118.jpg",
+    "rgb": [
+      92,
+      88,
+      89
+    ]
+  },
+  "N21": {
+    "file": "yuzu/keycaps/N21.jpg",
+    "rgb": [
+      75,
+      130,
+      107
+    ]
+  },
+  "N37": {
+    "file": "yuzu/keycaps/N37.jpg",
+    "rgb": [
+      106,
+      116,
+      92
+    ]
+  },
+  "O0": {
+    "file": "yuzu/keycaps/O0.jpg",
+    "rgb": [
+      244,
+      148,
+      96
+    ]
+  },
+  "OG001": {
+    "file": "yuzu/keycaps/OG1.jpg",
+    "rgb": [
+      230,
+      99,
+      55
+    ]
+  },
+  "OG002": {
+    "file": "yuzu/keycaps/OG2.jpg",
+    "rgb": [
+      239,
+      92,
+      85
+    ]
+  },
+  "OG003": {
+    "file": "yuzu/keycaps/OG3.jpg",
+    "rgb": [
+      237,
+      139,
+      61
+    ]
+  },
+  "OG004": {
+    "file": "yuzu/keycaps/OG4.jpg",
+    "rgb": [
+      231,
+      94,
+      54
+    ]
+  },
+  "OG005": {
+    "file": "yuzu/keycaps/OG5.jpg",
+    "rgb": [
+      244,
+      178,
+      152
+    ]
+  },
+  "OG007": {
+    "file": "yuzu/keycaps/OG7.jpg",
+    "rgb": [
+      246,
+      181,
+      94
+    ]
+  },
+  "OG008": {
+    "file": "yuzu/keycaps/OG8.jpg",
+    "rgb": [
+      237,
+      156,
+      51
+    ]
+  },
+  "OG009": {
+    "file": "yuzu/keycaps/OG9.jpg",
+    "rgb": [
+      239,
+      165,
+      81
+    ]
+  },
+  "OG010": {
+    "file": "yuzu/keycaps/OG10.jpg",
+    "rgb": [
+      194,
+      128,
+      86
+    ]
+  },
+  "OG011": {
+    "file": "yuzu/keycaps/OG11.jpg",
+    "rgb": [
+      246,
+      152,
+      60
+    ]
+  },
+  "OG012": {
+    "file": "yuzu/keycaps/OG12.jpg",
+    "rgb": [
+      241,
+      144,
+      79
+    ]
+  },
+  "OG013": {
+    "file": "yuzu/keycaps/OG13.jpg",
+    "rgb": [
+      234,
+      158,
+      52
+    ]
+  },
+  "OG017": {
+    "file": "yuzu/keycaps/OG17.jpg",
+    "rgb": [
+      241,
+      138,
+      89
+    ]
+  },
+  "OG018": {
+    "file": "yuzu/keycaps/OG18.jpg",
+    "rgb": [
+      220,
+      133,
+      90
+    ]
+  },
+  "OG019": {
+    "file": "yuzu/keycaps/OG19.jpg",
+    "rgb": [
+      166,
+      125,
+      98
+    ]
+  },
+  "OG020": {
+    "file": "yuzu/keycaps/OG20.jpg",
+    "rgb": [
+      235,
+      158,
+      54
+    ]
+  },
+  "OG021": {
+    "file": "yuzu/keycaps/OG21.jpg",
+    "rgb": [
+      238,
+      132,
+      92
+    ]
+  },
+  "OG022": {
+    "file": "yuzu/keycaps/OG22.jpg",
+    "rgb": [
+      216,
+      152,
+      52
+    ]
+  },
+  "OG023": {
+    "file": "yuzu/keycaps/OG23.jpg",
+    "rgb": [
+      238,
+      134,
+      59
+    ]
+  },
+  "OG024": {
+    "file": "yuzu/keycaps/OG24.jpg",
+    "rgb": [
+      222,
+      139,
+      84
+    ]
+  },
+  "OG025": {
+    "file": "yuzu/keycaps/OG25.jpg",
+    "rgb": [
+      244,
+      143,
+      74
+    ]
+  },
+  "OG026": {
+    "file": "yuzu/keycaps/OG26.jpg",
+    "rgb": [
+      226,
+      122,
+      88
+    ]
+  },
+  "OG027": {
+    "file": "yuzu/keycaps/OG27.jpg",
+    "rgb": [
+      238,
+      137,
+      105
+    ]
+  },
+  "OG028": {
+    "file": "yuzu/keycaps/OG28.jpg",
+    "rgb": [
+      237,
+      120,
+      89
+    ]
+  },
+  "OG029": {
+    "file": "yuzu/keycaps/OG29.jpg",
+    "rgb": [
+      229,
+      104,
+      81
+    ]
+  },
+  "OG030": {
+    "file": "yuzu/keycaps/OG30.jpg",
+    "rgb": [
+      237,
+      119,
+      99
+    ]
+  },
+  "OG031": {
+    "file": "yuzu/keycaps/OG31.jpg",
+    "rgb": [
+      237,
+      125,
+      61
+    ]
+  },
+  "OG032": {
+    "file": "yuzu/keycaps/OG32.jpg",
+    "rgb": [
+      237,
+      144,
+      57
+    ]
+  },
+  "OG033": {
+    "file": "yuzu/keycaps/OG33.jpg",
+    "rgb": [
+      224,
+      108,
+      73
+    ]
+  },
+  "PK001": {
+    "file": "yuzu/keycaps/PK1.jpg",
+    "rgb": [
+      217,
+      162,
+      192
+    ]
+  },
+  "PK002": {
+    "file": "yuzu/keycaps/PK2.jpg",
+    "rgb": [
+      236,
+      155,
+      172
+    ]
+  },
+  "PK003": {
+    "file": "yuzu/keycaps/PK3.jpg",
+    "rgb": [
+      236,
+      95,
+      135
+    ]
+  },
+  "PK004": {
+    "file": "yuzu/keycaps/PK4.jpg",
+    "rgb": [
+      237,
+      168,
+      172
+    ]
+  },
+  "PK005": {
+    "file": "yuzu/keycaps/PK5.jpg",
+    "rgb": [
+      249,
+      155,
+      158
+    ]
+  },
+  "PK006": {
+    "file": "yuzu/keycaps/PK6.jpg",
+    "rgb": [
+      244,
+      118,
+      126
+    ]
+  },
+  "PK007": {
+    "file": "yuzu/keycaps/PK7.jpg",
+    "rgb": [
+      237,
+      97,
+      111
+    ]
+  },
+  "PK008": {
+    "file": "yuzu/keycaps/PK8.jpg",
+    "rgb": [
+      234,
+      88,
+      106
+    ]
+  },
+  "PK009": {
+    "file": "yuzu/keycaps/PK9.jpg",
+    "rgb": [
+      207,
+      88,
+      107
+    ]
+  },
+  "PK010": {
+    "file": "yuzu/keycaps/PK10.jpg",
+    "rgb": [
+      248,
+      168,
+      179
+    ]
+  },
+  "PK011": {
+    "file": "yuzu/keycaps/PK11.jpg",
+    "rgb": [
+      241,
+      148,
+      165
+    ]
+  },
+  "PK012": {
+    "file": "yuzu/keycaps/PK12.jpg",
+    "rgb": [
+      234,
+      88,
+      106
+    ]
+  },
+  "PK013": {
+    "file": "yuzu/keycaps/PK13.jpg",
+    "rgb": [
+      208,
+      88,
+      109
+    ]
+  },
+  "PK014": {
+    "file": "yuzu/keycaps/PK14.jpg",
+    "rgb": [
+      240,
+      203,
+      197
+    ]
+  },
+  "PK015": {
+    "file": "yuzu/keycaps/PK15.jpg",
+    "rgb": [
+      240,
+      182,
+      182
+    ]
+  },
+  "PK016": {
+    "file": "yuzu/keycaps/PK16.jpg",
+    "rgb": [
+      246,
+      166,
+      167
+    ]
+  },
+  "PK017": {
+    "file": "yuzu/keycaps/PK17.jpg",
+    "rgb": [
+      243,
+      138,
+      141
+    ]
+  },
+  "PK018": {
+    "file": "yuzu/keycaps/PK18.jpg",
+    "rgb": [
+      242,
+      112,
+      123
+    ]
+  },
+  "PK019": {
+    "file": "yuzu/keycaps/PK19.jpg",
+    "rgb": [
+      226,
+      111,
+      119
+    ]
+  },
+  "PK020": {
+    "file": "yuzu/keycaps/PK20.jpg",
+    "rgb": [
+      188,
+      99,
+      115
+    ]
+  },
+  "PK021": {
+    "file": "yuzu/keycaps/PK21.jpg",
+    "rgb": [
+      243,
+      169,
+      179
+    ]
+  },
+  "PK022": {
+    "file": "yuzu/keycaps/PK22.jpg",
+    "rgb": [
+      236,
+      124,
+      141
+    ]
+  },
+  "PK023": {
+    "file": "yuzu/keycaps/PK23.jpg",
+    "rgb": [
+      235,
+      98,
+      116
+    ]
+  },
+  "PK024": {
+    "file": "yuzu/keycaps/PK24.jpg",
+    "rgb": [
+      225,
+      82,
+      110
+    ]
+  },
+  "PK025": {
+    "file": "yuzu/keycaps/PK25.jpg",
+    "rgb": [
+      183,
+      88,
+      110
+    ]
+  },
+  "PK026": {
+    "file": "yuzu/keycaps/PK26.jpg",
+    "rgb": [
+      242,
+      160,
+      183
+    ]
+  },
+  "PK027": {
+    "file": "yuzu/keycaps/PK27.jpg",
+    "rgb": [
+      233,
+      140,
+      172
+    ]
+  },
+  "PK028": {
+    "file": "yuzu/keycaps/PK28.jpg",
+    "rgb": [
+      237,
+      109,
+      147
+    ]
+  },
+  "PK029": {
+    "file": "yuzu/keycaps/PK29.jpg",
+    "rgb": [
+      228,
+      84,
+      121
+    ]
+  },
+  "PK031": {
+    "file": "yuzu/keycaps/PK31.jpg",
+    "rgb": [
+      229,
+      155,
+      160
+    ]
+  },
+  "PL001": {
+    "file": "yuzu/keycaps/PL1.jpg",
+    "rgb": [
+      133,
+      120,
+      175
+    ]
+  },
+  "PL002": {
+    "file": "yuzu/keycaps/PL2.jpg",
+    "rgb": [
+      119,
+      64,
+      124
+    ]
+  },
+  "PL003": {
+    "file": "yuzu/keycaps/PL3.jpg",
+    "rgb": [
+      164,
+      152,
+      196
+    ]
+  },
+  "PL004": {
+    "file": "yuzu/keycaps/PL4.jpg",
+    "rgb": [
+      70,
+      63,
+      78
+    ]
+  },
+  "PL005": {
+    "file": "yuzu/keycaps/PL5.jpg",
+    "rgb": [
+      218,
+      176,
+      197
+    ]
+  },
+  "PL006": {
+    "file": "yuzu/keycaps/PL6.jpg",
+    "rgb": [
+      222,
+      142,
+      178
+    ]
+  },
+  "PL007": {
+    "file": "yuzu/keycaps/PL7.jpg",
+    "rgb": [
+      219,
+      128,
+      166
+    ]
+  },
+  "PL008": {
+    "file": "yuzu/keycaps/PL8.jpg",
+    "rgb": [
+      212,
+      104,
+      145
+    ]
+  },
+  "PL009": {
+    "file": "yuzu/keycaps/PL9.jpg",
+    "rgb": [
+      115,
+      97,
+      128
+    ]
+  },
+  "PL010": {
+    "file": "yuzu/keycaps/PL10.jpg",
+    "rgb": [
+      100,
+      93,
+      119
+    ]
+  },
+  "PL011": {
+    "file": "yuzu/keycaps/PL11.jpg",
+    "rgb": [
+      140,
+      98,
+      122
+    ]
+  },
+  "PL012": {
+    "file": "yuzu/keycaps/PL12.jpg",
+    "rgb": [
+      230,
+      180,
+      198
+    ]
+  },
+  "PL013": {
+    "file": "yuzu/keycaps/PL13.jpg",
+    "rgb": [
+      205,
+      136,
+      173
+    ]
+  },
+  "PL014": {
+    "file": "yuzu/keycaps/PL14.jpg",
+    "rgb": [
+      178,
+      137,
+      191
+    ]
+  },
+  "PL015": {
+    "file": "yuzu/keycaps/PL15.jpg",
+    "rgb": [
+      165,
+      124,
+      187
+    ]
+  },
+  "PL016": {
+    "file": "yuzu/keycaps/PL16.jpg",
+    "rgb": [
+      196,
+      149,
+      200
+    ]
+  },
+  "PL017": {
+    "file": "yuzu/keycaps/PL17.jpg",
+    "rgb": [
+      131,
+      103,
+      134
+    ]
+  },
+  "PL018": {
+    "file": "yuzu/keycaps/PL18.jpg",
+    "rgb": [
+      210,
+      181,
+      211
+    ]
+  },
+  "PL019": {
+    "file": "yuzu/keycaps/PL19.jpg",
+    "rgb": [
+      177,
+      137,
+      187
+    ]
+  },
+  "PL020": {
+    "file": "yuzu/keycaps/PL20.jpg",
+    "rgb": [
+      189,
+      144,
+      196
+    ]
+  },
+  "PL021": {
+    "file": "yuzu/keycaps/PL21.jpg",
+    "rgb": [
+      157,
+      112,
+      170
+    ]
+  },
+  "PL022": {
+    "file": "yuzu/keycaps/PL22.jpg",
+    "rgb": [
+      163,
+      145,
+      170
+    ]
+  },
+  "PL023": {
+    "file": "yuzu/keycaps/PL23.jpg",
+    "rgb": [
+      171,
+      174,
+      222
+    ]
+  },
+  "PL024": {
+    "file": "yuzu/keycaps/PL24.jpg",
+    "rgb": [
+      142,
+      143,
+      181
+    ]
+  },
+  "PL025": {
+    "file": "yuzu/keycaps/PL25.jpg",
+    "rgb": [
+      134,
+      132,
+      167
+    ]
+  },
+  "PL026": {
+    "file": "yuzu/keycaps/PL26.jpg",
+    "rgb": [
+      236,
+      196,
+      211
+    ]
+  },
+  "PL027": {
+    "file": "yuzu/keycaps/PL27.jpg",
+    "rgb": [
+      231,
+      200,
+      204
+    ]
+  },
+  "PL028": {
+    "file": "yuzu/keycaps/PL28.jpg",
+    "rgb": [
+      113,
+      126,
+      167
+    ]
+  },
+  "PL029": {
+    "file": "yuzu/keycaps/PL29.jpg",
+    "rgb": [
+      217,
+      183,
+      212
+    ]
+  },
+  "PL030": {
+    "file": "yuzu/keycaps/PL30.jpg",
+    "rgb": [
+      185,
+      162,
+      208
+    ]
+  },
+  "PL031": {
+    "file": "yuzu/keycaps/PL31.jpg",
+    "rgb": [
+      114,
+      120,
+      194
+    ]
+  },
+  "PL032": {
+    "file": "yuzu/keycaps/PL32.jpg",
+    "rgb": [
+      117,
+      105,
+      155
+    ]
+  },
+  "RD001": {
+    "file": "yuzu/keycaps/RD1.jpg",
+    "rgb": [
+      231,
+      59,
+      57
+    ]
+  },
+  "RD002": {
+    "file": "yuzu/keycaps/RD2.jpg",
+    "rgb": [
+      220,
+      83,
+      82
+    ]
+  },
+  "RD003": {
+    "file": "yuzu/keycaps/RD3.jpg",
+    "rgb": [
+      232,
+      90,
+      101
+    ]
+  },
+  "RD004": {
+    "file": "yuzu/keycaps/RD4.jpg",
+    "rgb": [
+      194,
+      62,
+      65
+    ]
+  },
+  "RD005": {
+    "file": "yuzu/keycaps/RD5.jpg",
+    "rgb": [
+      198,
+      63,
+      66
+    ]
+  },
+  "RD006": {
+    "file": "yuzu/keycaps/RD6.jpg",
+    "rgb": [
+      106,
+      56,
+      72
+    ]
+  },
+  "RD007": {
+    "file": "yuzu/keycaps/RD7.jpg",
+    "rgb": [
+      186,
+      82,
+      85
+    ]
+  },
+  "RD008": {
+    "file": "yuzu/keycaps/RD8.jpg",
+    "rgb": [
+      246,
+      89,
+      90
+    ]
+  },
+  "RD009": {
+    "file": "yuzu/keycaps/RD9.jpg",
+    "rgb": [
+      208,
+      100,
+      90
+    ]
+  },
+  "RD010": {
+    "file": "yuzu/keycaps/RD10.jpg",
+    "rgb": [
+      244,
+      89,
+      77
+    ]
+  },
+  "RD011": {
+    "file": "yuzu/keycaps/RD11.jpg",
+    "rgb": [
+      244,
+      80,
+      87
+    ]
+  },
+  "RD012": {
+    "file": "yuzu/keycaps/RD12.jpg",
+    "rgb": [
+      246,
+      94,
+      107
+    ]
+  },
+  "RD013": {
+    "file": "yuzu/keycaps/RD13.jpg",
+    "rgb": [
+      200,
+      91,
+      96
+    ]
+  },
+  "RD014": {
+    "file": "yuzu/keycaps/RD14.jpg",
+    "rgb": [
+      228,
+      78,
+      79
+    ]
+  },
+  "RD015": {
+    "file": "yuzu/keycaps/RD15.jpg",
+    "rgb": [
+      240,
+      77,
+      80
+    ]
+  },
+  "RD016": {
+    "file": "yuzu/keycaps/RD16.jpg",
+    "rgb": [
+      243,
+      110,
+      95
+    ]
+  },
+  "RD017": {
+    "file": "yuzu/keycaps/RD17.jpg",
+    "rgb": [
+      229,
+      71,
+      83
+    ]
+  },
+  "RD018": {
+    "file": "yuzu/keycaps/RD18.jpg",
+    "rgb": [
+      220,
+      94,
+      103
+    ]
+  },
+  "RD019": {
+    "file": "yuzu/keycaps/RD19.jpg",
+    "rgb": [
+      247,
+      77,
+      92
+    ]
+  },
+  "RD020": {
+    "file": "yuzu/keycaps/RD20.jpg",
+    "rgb": [
+      230,
+      77,
+      73
+    ]
+  },
+  "RD021": {
+    "file": "yuzu/keycaps/RD21.jpg",
+    "rgb": [
+      200,
+      83,
+      95
+    ]
+  },
+  "RD022": {
+    "file": "yuzu/keycaps/RD22.jpg",
+    "rgb": [
+      234,
+      96,
+      97
+    ]
+  },
+  "RD023": {
+    "file": "yuzu/keycaps/RD23.jpg",
+    "rgb": [
+      225,
+      110,
+      113
+    ]
+  },
+  "RD024": {
+    "file": "yuzu/keycaps/RD24.jpg",
+    "rgb": [
+      236,
+      71,
+      63
+    ]
+  },
+  "RD025": {
+    "file": "yuzu/keycaps/RD25.jpg",
+    "rgb": [
+      169,
+      76,
+      86
+    ]
+  },
+  "RD026": {
+    "file": "yuzu/keycaps/RD26.jpg",
+    "rgb": [
+      177,
+      73,
+      88
+    ]
+  },
+  "RD027": {
+    "file": "yuzu/keycaps/RD27.jpg",
+    "rgb": [
+      168,
+      74,
+      86
+    ]
+  },
+  "RD028": {
+    "file": "yuzu/keycaps/RD28.jpg",
+    "rgb": [
+      192,
+      86,
+      83
+    ]
+  },
+  "RD029": {
+    "file": "yuzu/keycaps/RD29.jpg",
+    "rgb": [
+      174,
+      92,
+      95
+    ]
+  },
+  "RD031": {
+    "file": "yuzu/keycaps/RD31.jpg",
+    "rgb": [
+      215,
+      87,
+      92
+    ]
+  },
+  "RD032": {
+    "file": "yuzu/keycaps/RD32.jpg",
+    "rgb": [
+      161,
+      71,
+      88
+    ]
+  },
+  "RD033": {
+    "file": "yuzu/keycaps/RD33.jpg",
+    "rgb": [
+      193,
+      95,
+      90
+    ]
+  },
+  "RD034": {
+    "file": "yuzu/keycaps/RD34.jpg",
+    "rgb": [
+      235,
+      99,
+      113
+    ]
+  },
+  "RD035": {
+    "file": "yuzu/keycaps/RD35.jpg",
+    "rgb": [
+      227,
+      97,
+      91
+    ]
+  },
+  "RD036": {
+    "file": "yuzu/keycaps/RD36.jpg",
+    "rgb": [
+      201,
+      97,
+      94
+    ]
+  },
+  "YW001": {
+    "file": "yuzu/keycaps/YW1.jpg",
+    "rgb": [
+      252,
+      162,
+      84
+    ]
+  },
+  "YW002": {
+    "file": "yuzu/keycaps/YW2.jpg",
+    "rgb": [
+      236,
+      218,
+      200
+    ]
+  },
+  "YW003": {
+    "file": "yuzu/keycaps/YW3.jpg",
+    "rgb": [
+      226,
+      219,
+      82
+    ]
+  },
+  "YW004": {
+    "file": "yuzu/keycaps/YW4.jpg",
+    "rgb": [
+      246,
+      220,
+      145
+    ]
+  },
+  "YW005": {
+    "file": "yuzu/keycaps/YW5.jpg",
+    "rgb": [
+      246,
+      217,
+      175
+    ]
+  },
+  "YW006": {
+    "file": "yuzu/keycaps/YW6.jpg",
+    "rgb": [
+      236,
+      228,
+      143
+    ]
+  },
+  "YW007": {
+    "file": "yuzu/keycaps/YW7.jpg",
+    "rgb": [
+      243,
+      227,
+      131
+    ]
+  },
+  "YW008": {
+    "file": "yuzu/keycaps/YW8.jpg",
+    "rgb": [
+      236,
+      216,
+      121
+    ]
+  },
+  "YW009": {
+    "file": "yuzu/keycaps/YW9.jpg",
+    "rgb": [
+      228,
+      205,
+      111
+    ]
+  },
+  "YW010": {
+    "file": "yuzu/keycaps/YW10.jpg",
+    "rgb": [
+      232,
+      210,
+      91
+    ]
+  },
+  "YW011": {
+    "file": "yuzu/keycaps/YW11.jpg",
+    "rgb": [
+      230,
+      209,
+      77
+    ]
+  },
+  "YW012": {
+    "file": "yuzu/keycaps/YW12.jpg",
+    "rgb": [
+      224,
+      209,
+      46
+    ]
+  },
+  "YW013": {
+    "file": "yuzu/keycaps/YW13.jpg",
+    "rgb": [
+      244,
+      218,
+      59
+    ]
+  },
+  "YW014": {
+    "file": "yuzu/keycaps/YW14.jpg",
+    "rgb": [
+      244,
+      198,
+      50
+    ]
+  },
+  "YW015": {
+    "file": "yuzu/keycaps/YW15.jpg",
+    "rgb": [
+      248,
+      218,
+      168
+    ]
+  },
+  "YW016": {
+    "file": "yuzu/keycaps/YW16.jpg",
+    "rgb": [
+      255,
+      182,
+      88
+    ]
+  },
+  "YW017": {
+    "file": "yuzu/keycaps/YW17.jpg",
+    "rgb": [
+      230,
+      215,
+      160
+    ]
+  },
+  "YW018": {
+    "file": "yuzu/keycaps/YW18.jpg",
+    "rgb": [
+      218,
+      197,
+      143
+    ]
+  },
+  "YW019": {
+    "file": "yuzu/keycaps/YW19.jpg",
+    "rgb": [
+      238,
+      222,
+      171
+    ]
+  },
+  "YW020": {
+    "file": "yuzu/keycaps/YW20.jpg",
+    "rgb": [
+      253,
+      204,
+      109
+    ]
+  },
+  "YW021": {
+    "file": "yuzu/keycaps/YW21.jpg",
+    "rgb": [
+      233,
+      186,
+      80
+    ]
+  },
+  "YW022": {
+    "file": "yuzu/keycaps/YW22.jpg",
+    "rgb": [
+      240,
+      180,
+      79
+    ]
+  },
+  "YW023": {
+    "file": "yuzu/keycaps/YW23.jpg",
+    "rgb": [
+      244,
+      198,
+      53
+    ]
+  },
+  "YW024": {
+    "file": "yuzu/keycaps/YW24.jpg",
+    "rgb": [
+      238,
+      212,
+      137
+    ]
+  },
+  "YW025": {
+    "file": "yuzu/keycaps/YW25.jpg",
+    "rgb": [
+      223,
+      182,
+      108
+    ]
+  },
+  "YW026": {
+    "file": "yuzu/keycaps/YW26.jpg",
+    "rgb": [
+      210,
+      163,
+      59
+    ]
+  }
+}

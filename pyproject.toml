@@ -1,0 +1,17 @@
+[project]
+name = "img2caps"
+version = "0.1.0"
+description = "Convert images to mechanical keyboard keycap designs for YuzuKeyCaps"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=9.4.0",
+    "numpy>=1.24.0",
+    "flask>=3.1.0",
+    "openai>=1.76.0",
+    "python-dotenv>=1.1.0",
+    "bs4>=0.0.2",
+]
+
+[project.scripts]
+img2caps = "image_to_caps:main"

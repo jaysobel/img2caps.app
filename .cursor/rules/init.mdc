@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Overview
+This project is called img2caps. It's a simple React app tool that helps keyboard enthusiasts design custom key cap sets. The actual ordering and production is operated by a 3rd party service called "Yuzu KeyCaps" (often referred to as "yuzu"). Yuzu has a built-in design tool, but it's very tedious to use and not very flexible. Fortunately it has an import/export JSON format that can be used to populate the design instantly.
+
+This web app generates yuzu-compatible JSON outputs so people can easily realize generated designs! 
+
+## React Web App
+
+The app is a simple tool that allows the user to upload an image, and then position a layout of SVG keycaps over the image. When they hit a button, our preview logic finds the dominant color within the image under each key cap, then maps that to a Yuzu color code, and generates a preview 'rendering' of what their keycap set will look like. The user can reposition the key cap overlay within the image to get different results!
+
+We are in a rapid prototyping development phase. There is no need to maintain legacy or fallback options.
+
+## Core Experience
+
+The use picks an image from the set of sample images, or uploads their own image to the Editor pane. The editor pane shows the image, and an overlay of a keyboard that the use can drag around the canvas, and resize. In the other pane, a preview of their key caps awaits. When they hit he "Generate" button, the colors under the overlay are extracted and shown on the preview set. The use has "extractd the color from the image" using the overlay.
+
+## Coding Rules
+
+Use TSX files instead of JSX. This is a Typescript project.
+
+## Design Philosophy
+
+Mechanical keyboard hobbyists tend to have high quality desktop computer "battlestations" with high res 16:9 monitors. We are designing primarily for this type of desktop experience, but we also intend to support mobile. Because the app has just 1 UI, we want this UI to be beautiful and usable.
+
+## Helpful Pushback
+
+I am not deeply familiar with React. If a question I'm asking suggests doing things in an atypical way for a React project, it's probably just ignorance on my part. You should suggest best practices for building nimble React projects.
+
+## Prototyping Phase
+
+Prioritize rapid iteration. Do not leave excessive comments about functionality that has changed. This is a small nimble repository.

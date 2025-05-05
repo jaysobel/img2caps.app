@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Node
+node_modules/
+img2caps/build/
+
+# React & general logs
+npm-debug.log*
+*.log
+
+# macOS
+.DS_Store
+.vercel
+.cursor/mcp.json
